@@ -159,10 +159,16 @@ a.button span {
   background: transparent url(../images/tar-gz-icon.png) 12px 50% no-repeat;
 }
 #view-on-github span {
-  background: transparent url(../images/octocat-icon.png) 12px 50% no-repeat;
 }
 #view-on-twitter span {
-  background: transparent url(../images/twitter.png) 12px 50% no-repeat;
+}
+.button-icon {
+  font-size: 20px;
+  padding-right: 25px;
+  margin-left: -35px;
+}
+.icon-twitter {
+  color: #4099FF;
 }
 #view-on-github {
   margin-right: 0;
